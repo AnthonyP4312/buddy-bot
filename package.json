@@ -1,0 +1,23 @@
+{
+  "name": "buddy-bot",
+  "version": "1.0.0",
+  "description": "A bot to follow fishy aroma bot, and be his friend.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node build/app.js",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnthonyP4312/buddy-bot.git"
+  },
+  "author": "Anthony Palmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnthonyP4312/buddy-bot/issues"
+  },
+  "homepage": "https://github.com/AnthonyP4312/buddy-bot#readme",
+  "dependencies": {
+    "discord.io": "github:izy521/discord.io"
+  }
+}
